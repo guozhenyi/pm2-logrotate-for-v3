@@ -1,3 +1,10 @@
+## Notice
+
+## 警告：请不要在生产环境使用这个版本。此版本只是为了临时解决依赖安装的问题而存在。 
+
+## [Warning!] Don't use this for Production! It's just a temporary solution.
+
+**[pm2-logrotate-for-v3](https://github.com/guozhenyi/pm2-logrotate-for-v3) is forked from [pm2-logrotate](https://github.com/keymetrics/pm2-logrotate)**
 
 ## Description
 
